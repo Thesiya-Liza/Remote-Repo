@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Adding something!!!!
-addddddddddddddddddddddddddddddd
-=======
-Adding something!!!! 
->>>>>>> 0e97dbff65fb1d56f91ad93562c0356d6f06fa56
+hello!!!!
