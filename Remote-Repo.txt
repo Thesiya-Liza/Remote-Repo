@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello!!!!
-=======
 data inserted!!
->>>>>>> remoteBranch
